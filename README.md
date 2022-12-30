@@ -34,7 +34,7 @@
            
            - Contact : Nuxhi#4601 [https://discord.com/]
            
-⚠️ |  :
+⚠️ | READ THIS  :
            
 This utility is completely independent, it is in no way related to FiveM / Cfx.re.
 So be aware that in case of problems Cfx.re is not held responsible in any way, the authors / contributor of the project are not held responsible in case of problems.

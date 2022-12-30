@@ -33,3 +33,13 @@
            All the instructions will be indicated here, we invite you to help us with your bug reports
            
            - Contact : Nuxhi#4601 [https://discord.com/]
+           
+⚠️ |  :
+           
+This utility is completely independent, it is in no way related to FiveM / Cfx.re.
+So be aware that in case of problems Cfx.re is not held responsible in any way, the authors / contributor of the project are not held responsible in case of problems.
+
+As NTool is in Alpha version, some conflicts can be detected.
+ 
+In case of a bug we invite you to report it.
+If your problem is specific, reinstall NTool and FiveM.  

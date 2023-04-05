@@ -1,7 +1,12 @@
-# NTool V1
+# FiveM OPT or NTool V1
 
 🦞 NTool is an optimization software dedicated to FiveM
 🐛 Use Python 3
+
+[🪐] **Information utile :**
+
+> - NTool V1 remains a file in development
+> - if you want to see the code go here : https://github.com/Nuxhi/NTOOL-PV
 
 🔑 [Installation :]
 
